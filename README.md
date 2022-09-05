@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oii! Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/gustavo-machado-mette/"><i>Gustavo</i></a> 😁</h1>
-  <p align="center">💎Estudo Desenvolvimento de Sistemas💎</i></a>
+  <p align="center">💎 Estudo Desenvolvimento de Sistemas 💎</i></a>
  
 <div align="center">
    <a href="https://github.com/GustavoMette">
